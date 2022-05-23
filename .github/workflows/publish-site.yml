@@ -22,3 +22,4 @@ jobs:
           REPO: self
           BRANCH: _site
           FOLDER: .
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
