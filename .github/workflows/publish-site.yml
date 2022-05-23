@@ -21,3 +21,4 @@ jobs:
         env:
           REPO: self
           BRANCH: _site
+          FOLDER: .
